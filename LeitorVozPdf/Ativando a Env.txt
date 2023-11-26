@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=LXsdt6RMNfY
+
+Primeiro python -m venv env pra criar a env
+Dps .\env\Scripts\Activate.ps1 pra ativar
+E no final deactivate(so isso msm) pra desativar a env
+
